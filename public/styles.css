@@ -1,4 +1,11 @@
 /* CSS styling */
+
+.banner {
+    background-color: rgb(147, 210, 156);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
 body {
     background-color: rgb(9, 78, 75);
     color: white;
@@ -15,7 +22,6 @@ p {
 }
 a {
     color: rgb(168, 178, 53);
-    ;
     text-decoration: none;
 }
 main {
