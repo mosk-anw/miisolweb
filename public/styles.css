@@ -1,13 +1,13 @@
 /* CSS styling */
 
 .banner {
-    background-color: rgb(147, 210, 156);
+    background-color: #4D869C;
     color: white;
     padding: 10px;
     text-align: center;
 }
 body {
-    background-color: rgb(9, 78, 75);
+    background-color: #7AB2B2;
     color: white;
     font-family: Arial, sans-serif;
     display: flex;
@@ -21,7 +21,7 @@ p {
     text-align: justify;
 }
 a {
-    color: rgb(168, 178, 53);
+    color: #4D869C;
     text-decoration: none;
 }
 main {
@@ -29,7 +29,7 @@ main {
 }
 footer {
     text-align: center;
-    background-color: black;
+    background-color: #CDE8E5;
     padding: 5px;
     margin-top: auto;
     margin-bottom: 15px;
