@@ -1,35 +1,38 @@
 /* CSS styling */
 
 .banner {
-    background-color: #4D869C;
+    background-color: #5A639C;
     color: white;
     padding: 10px;
     text-align: center;
 }
 body {
-    background-color: #7AB2B2;
+    background-color: #9B86BD;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 h1 {
-    text-align: center;
+    text-align: justify;
+    font-size: 30px
 }
 p {
     text-align: justify;
+    font-size: 20;
 }
 a {
-    color: #4D869C;
+    /* background-color: thistle; */
     text-decoration: none;
+    font-size: 20px;
 }
 main {
     flex: 1;
 }
 footer {
     text-align: center;
-    background-color: #CDE8E5;
+    background-color: #E2BBE9;
     padding: 5px;
     margin-top: auto;
     margin-bottom: 15px;
@@ -46,4 +49,25 @@ footer {
     height: 125px;
     border-radius: 50%;
     margin: 20px;
+}
+
+.playwrite-fr-moderne {
+    font-family: "Playwrite FR Moderne", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+button {
+    background-color: #7776B3;
+    /* Green */
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: justify;
 }
